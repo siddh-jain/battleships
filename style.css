@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.HUD {
+  position: absolute;
+  color: #000000;
+  padding: 2px;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Health {
+  margin: 5px;
+}
+.Score {
+  margin: 5px;
+}
+.Time {
+  margin: 5px;
+}
+.Chests{
+  margin: 5px;
+}
+.Fps{
+  margin: 5px;
+}
